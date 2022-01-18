@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en" 
 preserveTaxonomyNames = true 
 theme = "even" 
-title = "bingym" 
+title = "bingym pages" 
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsCodefences = true
