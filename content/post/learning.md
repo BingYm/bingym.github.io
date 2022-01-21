@@ -157,11 +157,12 @@ draft: false
 
 ## Video
 
-|                                  Title                                   |                       Link                       |
-| :----------------------------------------------------------------------: | :----------------------------------------------: |
-| [2015 SP] 北京大学 Principles of Operating System 操作系统原理 by 陈向群 | https://www.bilibili.com/video/BV1Gx411Q7roTitle |
-|              李慧芹-C 语言-数据结构-Linux 系统编程-网络编程              |   https://www.bilibili.com/video/BV12v411p7Qx    |
-|                        【王桂林】C 语言基础入门视频                        |   https://www.bilibili.com/video/BV1uL4y1W7B5    |
+|                            Title                             |
+| :----------------------------------------------------------: |
+| [[2015 SP] 北京大学 Principles of Operating System 操作系统原理 by 陈向群](https://www.bilibili.com/video/BV1Gx411Q7roTitle) |
+| [中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程](https://www.bilibili.com/video/BV1JV411t7ow) |
+| [李慧芹-C 语言-数据结构-Linux 系统编程-网络编程](https://www.bilibili.com/video/BV12v411p7Qx) |
+| [【王桂林】C 语言基础入门视频](https://www.bilibili.com/video/BV1uL4y1W7B5) |
 
 # Game Design
 
