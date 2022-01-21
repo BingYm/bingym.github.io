@@ -8,12 +8,12 @@ draft: false
 
 ## Book
 
-| Title    | Link                                      | Online Version |
-| -------- | ----------------------------------------- | -------------- |
-| 物种起源 | https://book.douban.com/subject/26890747/ |                |
-| 人类简史 | https://book.douban.com/subject/25985021/ |                |
-| 未来简史 | https://book.douban.com/subject/26943161/ |                |
-| 三体     | https://book.douban.com/subject/6518605/  |                |
+|                         Title                         |
+| :---------------------------------------------------: |
+| [物种起源](https://book.douban.com/subject/26890747/) |
+| [人类简史](https://book.douban.com/subject/25985021/) |
+| [未来简史](https://book.douban.com/subject/26943161/) |
+|   [三体](https://book.douban.com/subject/6518605/)    |
 
 ## Video
 
@@ -129,6 +129,7 @@ draft: false
 |                 Linux多线程服务端编程                 |                  | https://book.douban.com/subject/20471211/ |                                                              |
 |        C++并发实战(C++ Concurrency in Action)         |                  | https://book.douban.com/subject/26386925/ |                                                              |
 |                      STL源码剖析                      |                  | https://book.douban.com/subject/1110934/  |                                                              |
+|                  深度探索C++对象模型                  |                  | https://book.douban.com/subject/1091086/  |                                                              |
 |                Boost程序库完全开发指南                |                  | https://book.douban.com/subject/5276434/  |                                                              |
 |                      Go语言编程                       | 许式伟           | https://book.douban.com/subject/11577300/ |                                                              |
 |                    Go并发编程实战                     |                  | https://book.douban.com/subject/26244729/ |                                                              |
@@ -168,23 +169,23 @@ draft: false
 
 ## Book
 
-| Title                                      | Link                                      | Online Version |
-| ------------------------------------------ | ----------------------------------------- | -------------- |
-| 游戏设计艺术                               | https://book.douban.com/subject/35460994/ |                |
-| 体验引擎：游戏设计全景探秘                 | https://book.douban.com/subject/26323699/ |                |
-| 游戏设计梦工厂                             | https://book.douban.com/subject/26780782/ |                |
-| 游戏机制：高级游戏设计技术                 | https://book.douban.com/subject/25859579/ |                |
-| 游戏设计快乐之道                           | https://book.douban.com/subject/25982547/ |                |
-| 游戏设计修炼之道                           | https://book.douban.com/subject/20394046/ |                |
-| 游戏开发原理                               | https://book.douban.com/subject/27060594/ |                |
-| 游戏架构设计与策划基础                     | https://book.douban.com/subject/4233460/  |                |
-| 游戏设计概论                               | https://book.douban.com/subject/1129898/  |                |
-| 游戏设计的236个技巧                        | https://book.douban.com/subject/26653173/ |                |
-| 国际游戏设计全教程                         | https://book.douban.com/subject/27021594/ |                |
+|                   Title                    |                   Link                    | Online Version |
+| :----------------------------------------: | :---------------------------------------: | -------------- |
+|                游戏设计艺术                | https://book.douban.com/subject/35460994/ |                |
+|         体验引擎：游戏设计全景探秘         | https://book.douban.com/subject/26323699/ |                |
+|               游戏设计梦工厂               | https://book.douban.com/subject/26780782/ |                |
+|         游戏机制：高级游戏设计技术         | https://book.douban.com/subject/25859579/ |                |
+|              游戏设计快乐之道              | https://book.douban.com/subject/25982547/ |                |
+|              游戏设计修炼之道              | https://book.douban.com/subject/20394046/ |                |
+|                游戏开发原理                | https://book.douban.com/subject/27060594/ |                |
+|           游戏架构设计与策划基础           | https://book.douban.com/subject/4233460/  |                |
+|                游戏设计概论                | https://book.douban.com/subject/1129898/  |                |
+|            游戏设计的236个技巧             | https://book.douban.com/subject/26653173/ |                |
+|             国际游戏设计全教程             | https://book.douban.com/subject/27021594/ |                |
 | 游戏迭代设计：概念、制作、拓展全程细则探秘 | https://book.douban.com/subject/27157302/ |                |
-| 游戏设计基础第三版                         | https://book.douban.com/subject/3529767/  |                |
-| 游戏设计信条                               | https://book.douban.com/subject/30186145/ |                |
-| 游戏制作的本质                             | https://book.douban.com/subject/27016792/ |                |
-| 游戏专业概论                               | https://book.douban.com/subject/4240955/  |                |
-| 游戏设计的100个原理                        | https://book.douban.com/subject/26318335/ |                |
-| 手游与社交游戏设计                         | https://book.douban.com/subject/26668642/ |                |
+|             游戏设计基础第三版             | https://book.douban.com/subject/3529767/  |                |
+|                游戏设计信条                | https://book.douban.com/subject/30186145/ |                |
+|               游戏制作的本质               | https://book.douban.com/subject/27016792/ |                |
+|                游戏专业概论                | https://book.douban.com/subject/4240955/  |                |
+|            游戏设计的100个原理             | https://book.douban.com/subject/26318335/ |                |
+|             手游与社交游戏设计             | https://book.douban.com/subject/26668642/ |                |
