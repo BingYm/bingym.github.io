@@ -1,5 +1,5 @@
 ---
-title: "Cmd Scp"
+title: "Linux & scp"
 date: 2022-01-28T15:46:17+08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zip"
+title: "Linux & Zip"
 date: 2022-01-28T15:51:40+08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "On My Zsh"
+title: "On My Zsh Install & Configure"
 date: 2022-01-28T16:31:47+08:00
 draft: false
 ---
