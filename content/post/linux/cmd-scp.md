@@ -1,7 +1,7 @@
 ---
 title: "Cmd Scp"
 date: 2022-01-28T15:46:17+08:00
-draft: true
+draft: false
 ---
 
 # 基本使用
