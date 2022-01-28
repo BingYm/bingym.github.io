@@ -1,5 +1,7 @@
 ---
 title: "Why I Use Mac"
+tags: ["MacOS"]
+categories: ["MacOS"]
 date: 2022-01-20T23:26:36+08:00
 draft: false
 ---

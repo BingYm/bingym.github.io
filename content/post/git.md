@@ -1,6 +1,8 @@
 ---
 title: "Git"
 date: 2022-01-28T16:31:52+08:00
+tags: ["Git"]
+categories: ["Programming"]
 draft: false
 ---
 

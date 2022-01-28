@@ -1,6 +1,7 @@
 ---
 title: "Learning"
 date: 2022-01-17T23:22:38+08:00
+tags: ["list"]
 draft: false
 ---
 
