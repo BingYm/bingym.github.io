@@ -1,7 +1,7 @@
 ---
 title: "Linux & Zip"
 tags: ["Linux", "Bash", "Shell"]
-categories: ["Linux"]
+categories: ["original"]
 date: 2022-01-28T15:51:40+08:00
 draft: false
 ---

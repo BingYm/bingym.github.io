@@ -45,11 +45,11 @@ identifier = "categories"
 name = "Categories"
 url = "/categories/"
 weight = 40
-[[menu.main]]
-identifier = "tools"
-name = "Tools"
-url = "https://114.threestories.cn"
-weight = 40
+# [[menu.main]]
+# identifier = "tools"
+# name = "Tools"
+# url = "https://114.threestories.cn"
+# weight = 40
 
 [params]
 debug = false # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda

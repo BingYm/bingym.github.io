@@ -1,7 +1,7 @@
 ---
 title: "Bash Hotkey"
 tags: ["Linux", "Bash", "Shell"]
-categories: ["Linux"]
+categories: ["original"]
 date: 2022-01-28T16:16:35+08:00
 draft: false
 ---
