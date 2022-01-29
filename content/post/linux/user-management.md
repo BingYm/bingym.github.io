@@ -1,6 +1,8 @@
 ---
 title: "Linux User Management"
 date: 2022-01-29T17:51:35+08:00
+categories: ["original"]
+tags: ["linux"]
 draft: false
 ---
 
