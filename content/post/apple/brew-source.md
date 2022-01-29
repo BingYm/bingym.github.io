@@ -1,6 +1,8 @@
 ---
 title: "Brew Source"
 date: 2022-01-29T17:26:08+08:00
+categories: ["original"]
+"tags": ["Macos"]
 draft: false
 ---
 

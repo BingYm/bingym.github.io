@@ -1,6 +1,8 @@
 ---
 title: "Vim"
 date: 2022-01-28T16:27:45+08:00
+tags: ["vim"]
+categories: ["original"]
 draft: false
 ---
 

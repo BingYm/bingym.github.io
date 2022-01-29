@@ -1,6 +1,8 @@
 ---
 title: "Vimium"
 date: 2022-01-28T16:29:02+08:00
+tags: ["vim"]
+categories: ["original"]
 draft: false
 ---
 

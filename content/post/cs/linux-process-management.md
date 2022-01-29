@@ -2,6 +2,7 @@
 title: "Linux Process Management"
 date: 2022-01-29T18:04:55+08:00
 categories: ["original"]
+tags: ["linux"]
 draft: false
 ---
 

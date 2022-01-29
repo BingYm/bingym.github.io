@@ -1,6 +1,6 @@
 ---
 title: "Linux & scp"
-tags: ["Linux", "Bash", "Shell"]
+tags: ["linux", "Shell"]
 categories: ["original"]
 date: 2022-01-28T15:46:17+08:00
 draft: false
