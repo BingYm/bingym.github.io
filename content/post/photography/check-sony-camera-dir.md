@@ -6,6 +6,13 @@ categories: ["original"]
 draft: false
 ---
 
+## 目标
+
+1. 删除空目录
+2. 列出非空目录里的文件数
+
+## 做法
+
 我的A7R2存储卡名是`sd4a7rm2`，在MacOS上照片的路径是`/Volumes/sd4a7rm2/DCIM`
 
 把下面这段代码放在这个目录下，起名叫`app.py`，然后在terminal里面输入`python app.py`，效果如图
