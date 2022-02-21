@@ -49,7 +49,7 @@ Redis 的分布式锁不能解决超时问题，如果在加锁和释放锁之�
 
 为set指令的value参数设置为一个随机数，释放锁时先匹配随机数是否一致，然后再删除 key。但是匹配value和删除key不是一个原子操作，Redis也没有提供类似于delifequals这样的指令，这就需要使用Lua脚本来处理了，因为Lua脚本可以保证连续多个指令的原子性执行。
 
-```python
+```
 # delifequals
 if redis.call("get", KEYS[1]) == ARGV[1] then
     return redis.call("del", KEYS[1])
