@@ -54,10 +54,14 @@ draft: false
 |                      鸟哥的linux私房菜                       |                  |                                                              |
 |                        Bash 脚本教程                         |      阮一峰      |                  https://wangdoc.com/bash/                   |
 | [计算机组成与设计：硬件/软件接口（原书第5版·RISC-V版）](https://book.douban.com/subject/26604008/) |                  |                                                              |
+|                       程序是怎么跑来的                       |                  |                                                              |
 | [编译原理（原书第2版）](https://book.douban.com/subject/3296317/) |                  |                                                              |
 | [现代编译原理-C语言描述](https://book.douban.com/subject/30191414/) |                  |                                                              |
 | [算法导论(CLRS)](https://book.douban.com/subject/20432061/)  |                  |                                                              |
 | [数据结构与算法分析](https://book.douban.com/subject/1139426/) |                  |                                                              |
+|                         大话数据结构                         |                  |                                                              |
+|                           算法图解                           |                  |                                                              |
+|                      数据结构与算法之美                      |                  |                                                              |
 |    [剑指Offer](https://book.douban.com/subject/25910559/)    |                  |                                                              |
 | [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/1052241/) |                  |                                                              |
 |   [大话设计模式](https://book.douban.com/subject/2334288/)   |                  |                                                              |
@@ -79,6 +83,7 @@ draft: false
 | [持续交付：发布可靠软件的系统方法](https://book.douban.com/subject/6862062/) |                  |                                                              |
 | [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/) |                  |                                                              |
 | [计算机网络：自顶向下方法](https://book.douban.com/subject/30280001/) |                  |                                                              |
+|                       网络是怎么连接的                       |                  |                                                              |
 | [TCP/IP详解 卷1：协议（原书第2版）](https://book.douban.com/subject/26825411/) |                  |                                                              |
 |   [图解TCP/IP](https://book.douban.com/subject/24737674/)    |                  |                                                              |
 |  [HTTP权威指南](https://book.douban.com/subject/10746113/)   |                  |                                                              |
@@ -100,6 +105,7 @@ draft: false
 |  [MySQL技术内幕](https://book.douban.com/subject/24708143/)  |                  |                                                              |
 |   [高性能MySQL](https://book.douban.com/subject/23008813/)   |                  |                                                              |
 |                          MySQL45讲                           |                  |                                                              |
+|                      从根儿上理解 mysql                      |                  |                                                              |
 |    [Redis实战](https://book.douban.com/subject/26612779/)    |                  |                                                              |
 | [Redis设计与实现](https://book.douban.com/subject/25900156/) |                  |                                                              |
 | [Redis深入历险:核心原理与应用实践](https://book.douban.com/subject/30386804/) |      钱文品      |                                                              |
