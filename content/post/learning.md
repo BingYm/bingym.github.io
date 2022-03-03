@@ -43,6 +43,7 @@ draft: false
 | [Unix环境高级编程(APUE)](https://book.douban.com/subject/25900403/) |                  |                                                              |
 | [现代体系结构上的Unix系统](https://book.douban.com/subject/1229889/) |                  |                                                              |
 | [Linux环境编程：从应用到内核](https://book.douban.com/subject/26820213/) |                  |                                                              |
+|  [LINUX系统编程](https://book.douban.com/subject/3907181/)   |                  |                                                              |
 | [Linux 内核设计与实现(原书第3版)](https://book.douban.com/subject/6097773/) |                  |                                                              |
 | [Linux 高性能服务器编程](https://book.douban.com/subject/24722611/) |                  |                                                              |
 | [深入理解 Linux 内核（第三版）](https://book.douban.com/subject/2287506/) |                  |                                                              |
@@ -51,17 +52,17 @@ draft: false
 |    [并发的艺术](https://book.douban.com/subject/4937268/)    |                  |                                                              |
 |   [Unix编程艺术](https://book.douban.com/subject/1467587/)   |                  |                                                              |
 |  [Linux程序设计](https://book.douban.com/subject/4831448/)   |                  |                                                              |
-|                      鸟哥的linux私房菜                       |                  |                                                              |
+| [鸟哥的linux私房菜](https://book.douban.com/subject/4889838/) |                  |                                                              |
 |                        Bash 脚本教程                         |      阮一峰      |                  https://wangdoc.com/bash/                   |
 | [计算机组成与设计：硬件/软件接口（原书第5版·RISC-V版）](https://book.douban.com/subject/26604008/) |                  |                                                              |
-|                       程序是怎么跑来的                       |                  |                                                              |
+| [程序是怎么跑起来的](https://book.douban.com/subject/26365491/) |                  |                                                              |
 | [编译原理（原书第2版）](https://book.douban.com/subject/3296317/) |                  |                                                              |
 | [现代编译原理-C语言描述](https://book.douban.com/subject/30191414/) |                  |                                                              |
 | [算法导论(CLRS)](https://book.douban.com/subject/20432061/)  |                  |                                                              |
 | [数据结构与算法分析](https://book.douban.com/subject/1139426/) |                  |                                                              |
-|                         大话数据结构                         |                  |                                                              |
-|                           算法图解                           |                  |                                                              |
-|                      数据结构与算法之美                      |                  |                                                              |
+|   [大话数据结构](https://book.douban.com/subject/6424904/)   |                  |                                                              |
+|    [算法图解](https://book.douban.com/subject/26979890/)     |                  |                                                              |
+| [数据结构与算法之美](https://book.douban.com/subject/35474931/) |                  |                                                              |
 |    [剑指Offer](https://book.douban.com/subject/25910559/)    |                  |                                                              |
 | [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/1052241/) |                  |                                                              |
 |   [大话设计模式](https://book.douban.com/subject/2334288/)   |                  |                                                              |
@@ -83,7 +84,7 @@ draft: false
 | [持续交付：发布可靠软件的系统方法](https://book.douban.com/subject/6862062/) |                  |                                                              |
 | [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/) |                  |                                                              |
 | [计算机网络：自顶向下方法](https://book.douban.com/subject/30280001/) |                  |                                                              |
-|                       网络是怎么连接的                       |                  |                                                              |
+| [网络是怎么连接的](https://book.douban.com/subject/26941639/) |                  |                                                              |
 | [TCP/IP详解 卷1：协议（原书第2版）](https://book.douban.com/subject/26825411/) |                  |                                                              |
 |   [图解TCP/IP](https://book.douban.com/subject/24737674/)    |                  |                                                              |
 |  [HTTP权威指南](https://book.douban.com/subject/10746113/)   |                  |                                                              |
@@ -105,7 +106,7 @@ draft: false
 |  [MySQL技术内幕](https://book.douban.com/subject/24708143/)  |                  |                                                              |
 |   [高性能MySQL](https://book.douban.com/subject/23008813/)   |                  |                                                              |
 |                          MySQL45讲                           |                  |                                                              |
-|                      从根儿上理解 mysql                      |                  |                                                              |
+| [从根儿上理解 mysql](https://book.douban.com/subject/35231266/) |                  |                                                              |
 |    [Redis实战](https://book.douban.com/subject/26612779/)    |                  |                                                              |
 | [Redis设计与实现](https://book.douban.com/subject/25900156/) |                  |                                                              |
 | [Redis深入历险:核心原理与应用实践](https://book.douban.com/subject/30386804/) |      钱文品      |                                                              |
@@ -169,6 +170,7 @@ draft: false
 |                            Title                             |
 | :----------------------------------------------------------: |
 | [[2015 SP] 北京大学 Principles of Operating System 操作系统原理 by 陈向群](https://www.bilibili.com/video/BV1Gx411Q7roTitle) |
+| [【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统 课程视频](https://www.bilibili.com/video/BV1iW411d7hd) |
 | [中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程](https://www.bilibili.com/video/BV1JV411t7ow) |
 | [李慧芹-C 语言-数据结构-Linux 系统编程-网络编程](https://www.bilibili.com/video/BV12v411p7Qx) |
 | [【王桂林】C 语言基础入门视频](https://www.bilibili.com/video/BV1uL4y1W7B5) |
