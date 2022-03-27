@@ -10,76 +10,90 @@ draft: false
 
 ## Book
 
-|                            Name                            |
-| :--------------------------------------------------------: |
-|   [文化人类学](https://book.douban.com/subject/1493134/)   |
-|  [人类学概论](https://book.douban.com/subject/34982063/)   |
-|                     [人类学的四大传统]                     |
-| [人类学经典导读](https://book.douban.com/subject/2426851/) |
-|                      [[人类学的邀请]]                      |
-|                        [他者的眼光]                        |
-|                         [象征之林]                         |
-|                        [文化的阐释]                        |
-|                        [忧郁的热带]                        |
-|                       [萨摩耶的成年]                       |
-|                      [伊隆戈人的猎头]                      |
-|                    [西太平洋上的航海者]                    |
-|                           [金翼]                           |
-|                           [银翅]                           |
-|                         [江村经济]                         |
-|                      [天真的人类学家]                      |
-|                        [安达曼岛人]                        |
-|                          [努尔人]                          |
-|                        [洁净与危险]                        |
-|                          [祖荫下]                          |
-|                         [华夏边缘]                         |
-|                        [发展人类学]                        |
-|                       [我的凉山兄弟]                       |
-|                       [第三种黑猩猩]                       |
-|                        [实用人类学]                        |
-|                      [社会学与人类学]                      |
-|                       [人类学讲义稿]                       |
-|                [马克思<人类学笔记>研究读本]                |
-|                       [人类学是什么]                       |
-|                   [一本严格意义上的日记]                   |
-|               [20世纪西方人类学主要著作指南]               |
-|                   [礼物、 关系学与国家]                    |
-|                [饕餮之欲——当代中国的食与色]                |
-|                         [中国食物]                         |
-|                     [中国人行动的逻辑]                     |
-|                        [道教和儒教]                        |
-|                  [新教伦理和资本主义精神]                  |
+|                             Name                             |
+| :----------------------------------------------------------: |
+|    [文化人类学](https://book.douban.com/subject/1493134/)    |
+|   [人类学概论](https://book.douban.com/subject/34982063/)    |
+| [人类学的四大传统](https://book.douban.com/subject/35587002/) |
+|  [人类学经典导读](https://book.douban.com/subject/2426851/)  |
+|  [人类学的邀请](https://book.douban.com/subject/33440209/)   |
+|    [他者的眼光](https://book.douban.com/subject/1429345/)    |
+|     [象征之林](https://book.douban.com/subject/1958294/)     |
+|    [文化的解释](https://book.douban.com/subject/1093249/)    |
+|    [忧郁的热带](https://book.douban.com/subject/4131380/)    |
+|   [萨摩耶的成年](https://book.douban.com/subject/3309690/)   |
+|  [伊隆戈人的猎头](https://book.douban.com/subject/6966477/)  |
+| [西太平洋上的航海者](https://book.douban.com/subject/26732332/) |
+|      [金翼](https://book.douban.com/subject/26410016/)       |
+|      [银翅](https://book.douban.com/subject/26808378/)       |
+|    [江村经济](https://book.douban.com/subject/20395460/)     |
+|  [天真的人类学家](https://book.douban.com/subject/6712255/)  |
+|    [安达曼岛人](https://book.douban.com/subject/1491148/)    |
+|     [努尔人](https://book.douban.com/subject/25864510/)      |
+|    [洁净与危险](https://book.douban.com/subject/3268426/)    |
+|      [祖荫下](https://book.douban.com/subject/3380406/)      |
+|    [华夏边缘](https://book.douban.com/subject/35013931/)     |
+|  [发展人类学概论](https://book.douban.com/subject/4124762/)  |
+|  [我的凉山兄弟](https://book.douban.com/subject/26425892/)   |
+|  [第三种黑猩猩](https://book.douban.com/subject/10607615/)   |
+|    [实用人类学](https://book.douban.com/subject/1005301/)    |
+| [社会学与人类学](https://book.douban.com/subject/25822102/)  |
+|  [人类学讲义稿](https://book.douban.com/subject/30394085/)   |
+| [马克思<人类学笔记>研究读本](https://book.douban.com/subject/25727602/) |
+|  [人类学是什么](https://book.douban.com/subject/26839384/)   |
+| [一本严格意义上的日记](https://book.douban.com/subject/26022684/) |
+| [20世纪西方人类学主要著作指南](https://book.douban.com/subject/30394086/) |
+| [礼物、 关系学与国家](https://book.douban.com/subject/3758143/) |
+| [饕餮之欲——当代中国的食与色](https://book.douban.com/subject/3648581/) |
+|     [中国食物](https://book.douban.com/subject/1054671/)     |
+| [中国人行动的逻辑](https://book.douban.com/subject/27169691/) |
+|    [儒教与道教](https://book.douban.com/subject/1434346/)    |
+| [新教伦理和资本主义精神](https://book.douban.com/subject/27083202/) |
 
 # Sociology
 
-|                            Name                             |
-| :---------------------------------------------------------: |
-|                        [低欲望社会]                         |
-|                         [乡土中国]                          |
-|                         [江村经济]                          |
-|                          [自杀论]                           |
-|                      [社会学的想象力]                       |
-|                          [回乡记]                           |
-|                        [人情与面子]                         |
-|                         [乌合之众]                          |
-|                 [穿透：像社会学家一样思考]                  |
-|                        [贫穷的本质]                         |
-|                        [社会性动物]                         |
-|                         [沧浪之水]                          |
-|                        [新乡土中国]                         |
-|    [她身之欲](https://book.douban.com/subject/26804793/)    |
-|  [流动的现代性](https://book.douban.com/subject/27601528/)  |
-| [临床医学的诞生](https://book.douban.com/subject/6006690/)  |
-|                         [大工地]()                          |
-|    [风险社会](https://book.douban.com/subject/27136548/)    |
-|    [街角社会](https://book.douban.com/subject/1704159/)     |
-|     [社会学](https://book.douban.com/subject/35635630/)     |
-| [旧制度与大革命](https://book.douban.com/subject/24530465/) |
-|  [论美国的民主](https://book.douban.com/subject/1041385/)   |
+## Book
+
+|                             Name                             |
+| :----------------------------------------------------------: |
+|   [低欲望社会](https://book.douban.com/subject/30296200/)    |
+|     [乡土中国](https://book.douban.com/subject/1795079/)     |
+|      [自杀论](https://book.douban.com/subject/1274469/)      |
+| [社会学的想象力](https://book.douban.com/subject/26874446/)  |
+|     [回乡记](https://book.douban.com/subject/35742255/)      |
+|    [人情与面子](https://book.douban.com/subject/5373043/)    |
+|     [乌合之众](https://book.douban.com/subject/1012611/)     |
+| [穿透：像社会学家一样思考](https://book.douban.com/subject/35217670/) |
+|   [贫穷的本质](https://book.douban.com/subject/21966353/)    |
+|    [社会性动物](https://book.douban.com/subject/2328458/)    |
+|     [沧浪之水](https://book.douban.com/subject/1054917/)     |
+|   [新乡土中国](https://book.douban.com/subject/25718597/)    |
+|    [她身之欲](https://book.douban.com/subject/26804793/)     |
+|  [流动的现代性](https://book.douban.com/subject/27601528/)   |
+|  [临床医学的诞生](https://book.douban.com/subject/6006690/)  |
+|                          [大工地]()                          |
+|    [风险社会](https://book.douban.com/subject/27136548/)     |
+|     [街角社会](https://book.douban.com/subject/1704159/)     |
+|     [社会学](https://book.douban.com/subject/35635630/)      |
+| [旧制度与大革命](https://book.douban.com/subject/24530465/)  |
+|   [论美国的民主](https://book.douban.com/subject/1041385/)   |
+
+# Politics
 
 ## Book
 
+|                          Name                          |
+| :----------------------------------------------------: |
+| [社会契约论](https://book.douban.com/subject/1277981/) |
 
+
+# World War
+
+## Book
+
+| Name |
+| :--: |
+|      |
 
 # Evolution
 
