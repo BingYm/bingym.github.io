@@ -122,6 +122,7 @@ draft: false
 |     [社会学](https://book.douban.com/subject/35635630/)      |
 | [旧制度与大革命](https://book.douban.com/subject/24530465/)  |
 |   [论美国的民主](https://book.douban.com/subject/1041385/)   |
+|   [美国种族简史](https://book.douban.com/subject/6892579/)   |
 
 # Politics
 
