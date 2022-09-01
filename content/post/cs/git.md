@@ -6,19 +6,7 @@ categories: ["original"]
 draft: false
 ---
 
-# 查看git版本
-
-```Bash
-git --version
-```
-
-# 初始化git仓库
-
-```Bash
-git init
-```
-
-# 配置用户名和邮箱
+## 配置用户名和邮箱
 
 ```Bash
 git config --global user.name "this is my username"
@@ -29,13 +17,13 @@ git config --global user.email "email@example.com"
 # 全局的配置在~/.gitconfig文件里
 ```
 
-# 查看当前git配置
+## 查看当前git配置
 
 ```Bash
 git config --list
 ```
 
-# 撤销修改
+## 撤销修改
 
 ```Bash
 git checkout -- readme.txt  # 这个--必须加
@@ -48,52 +36,51 @@ git reset HEAD readme.txt
 # 用于取消已缓存的内容
 ```
 
-# 生成秘钥私钥
+## 生成秘钥私钥
 
 ```Bash
 ssh-keygen -t rsa -C "email@example.com" 
-# 一路回车，到用户家目录下会有一个.ssh目录，里面有id_rsa和id_rsa.pub两个文件
 ```
 
-# 查看当前的远程库
+## 查看当前的远程库
 
 ```Bash
 git remote
 git remote -v  # -v可以查看到每个别名的实际仓库地址
 ```
 
-# 本地仓库关联远程仓库
+## 本地仓库关联远程仓库
 
 ```Bash
 git remote add origin https://github.com/BingYm/qczll.git  # 后面这是远程仓库地址
 ```
 
-# 删除远程仓库
+## 删除远程仓库
 
 ```Bash
 git remote rm origin2  # origin2为别名，可以用git remote查看
 ```
 
-# 生成秘钥私钥
+## 生成秘钥私钥
 
 ```Bash
 ssh-keygen -t rsa -C "email@example.com" 
 # 一路回车，到用户家目录下会有一个.ssh目录，里面有id_rsa和id_rsa.pub两个文件
 ```
 
-# 本地仓库关联远程仓库
+## 本地仓库关联远程仓库
 
 ```Bash
 git remote add origin https://github.com/BingYm/qczll.git  # 后面这是远程仓库地址
 ```
 
-# 删除远程仓库
+## 删除远程仓库
 
 ```Bash
 git remote rm origin2  # origin2为别名，可以用git remote查看
 ```
 
-# 增加/删除文件
+## 增加/删除文件
 
 1. `git add [file1] [file2]`添加指定文件到暂存区
 2. `git add [dir]`添加指定目录到暂存区，包括子目录
@@ -105,14 +92,14 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 8. `git rm --cached [file]`停止追踪指定文件，但该文件会保留在工作区(现在已经有文件被add到暂存区了，使用这个命令可以停止追踪该文件，重新变成未add的状态)
 9. `git mv [file-original] [file-renamed]`改名，并放入暂存区
 
-# 代码提交
+## 代码提交
 
 1. `git commit -m [message]`提交暂存区到仓库区
 2. `git commit [file1] [file2] ...-m [message]`提交暂存区的指定文件到仓库区
 3. `git commit -a`提交工作区自上次提交之后的变化到仓库区
 4. `git commit -v`提交时显示所有diff信息
 
-# 分支
+## 分支
 
 1. `git branch [-v]`列出所有本地分支
 2. `git branch -r`列出所有远程分支
@@ -130,12 +117,12 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 14. `git push origin --delete <branchName>` 删除远程分支
 15. `git push origin --delete [branch-name] / git branch -dr [remote/branch]`删除远程分支
 
-## 合并分支
+### 合并分支
 
 1. 切换到接受修改的分支(被合并，增加新内容)上，`git checkout [被合并的分支名]`
 2. 执行merge命令`git merge [有新内容的分支名]`
 
-# 标签
+## 标签
 
 1. `git tag`
 2. `git tag [tag]`
@@ -147,7 +134,7 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 8. `git push [remote] --tags`
 9. `git checkout -b [branch] [tag]`
 
-# 查看信息
+## 查看信息
 
 1. `git status`显示有变更的文件(工作区和暂存区)
 2. `git log`显示当前分支的版本历史
@@ -165,7 +152,7 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 14. `git diff [first-branch]...[second-branch]`显示两次提交之前的差异
 15. `git reflog`显示当前分支的最近几次提交，显示移到到某次提交需要的次数(HEAD@{步数})
 
-# 远程同步
+## 远程同步
 
 1. `git fetch [remote]`下载远程仓库的所有变动
 2. `git remote -v`显示所有远程仓库(看到每个别名的实际仓库地址)
@@ -177,7 +164,7 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 8. `git push [remote] --force`强制推送当前分支到远程仓库，即使有冲突
 9. `git push [remote] --all`推送所有分支到远程仓库
 
-# 撤销
+## 撤销
 
 1. `git checkout [file]`恢复存区的指定文件到工作区
 2. `git check [commit] [file]`恢复某个commit的指定文件到暂存区和工作区
@@ -198,13 +185,20 @@ git remote rm origin2  # origin2为别名，可以用git remote查看
 1. `git reset --keep [commit]`重置当前HEAD为指定commit，但保持暂存区和工作区不变
 2. `git revert [commit]`新建一个commit，用来撤销指定commit，后者的所有变化都将被前者抵消，并且应用到当前分支
 
-# 生成一个可供发布的压缩包
+## submodule
+
+```bash
+git submodule update --init --recursive
+# https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules
+```
+
+## 生成一个可供发布的压缩包
 
 ```Bash
 git archive
 ```
 
-# 案例
+## 案例
 
 - 修改commit信息 `git commit --amend`
 
