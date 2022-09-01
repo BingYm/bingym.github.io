@@ -131,6 +131,8 @@ draft: false
 |                          Name                          |
 | :----------------------------------------------------: |
 | [社会契约论](https://book.douban.com/subject/1277981/) |
+| [动物农场](https://book.douban.com/subject/2035179/) |
+
 
 
 # World War
