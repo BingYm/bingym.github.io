@@ -264,6 +264,7 @@ draft: false
 |                        C语言入门教程                         |      阮一峰      |                  https://wangdoc.com/clang/                  |
 |                         C标准和实现                          |                  |                                                              |
 |    [C++沉思录](https://book.douban.com/subject/1102180/)     |                  |                                                              |
+|    [Essential C++](https://book.douban.com/subject/24868427/)     |                  |                                                              |
 |  [Effective c++](https://book.douban.com/subject/1842426/)   |                  |                                                              |
 |   [C++ Primer](https://book.douban.com/subject/25708312/)    |                  |                                                              |
 | [C++ Primer Plus](https://book.douban.com/subject/35126643/) |                  |                                                              |
