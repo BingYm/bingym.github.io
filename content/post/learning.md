@@ -235,7 +235,6 @@ draft: false
 | [微服务架构设计模式](https://book.douban.com/subject/33425123/) |                  |                                                              |
 | [架构即未来(原书第2版)](https://book.douban.com/subject/26765979/) |                  |                                                              |
 | [写给架构师的 Linux 实践](https://book.douban.com/subject/35075961/) |                  |                                                              |
-| [restful web services](https://book.douban.com/subject/3094230/) |                  |                                                              |
 |     [Pro Git](https://book.douban.com/subject/3420144/)      |                  |                                                              |
 | [PostgreSQL修炼之道](https://book.douban.com/subject/26389922/) |                  |                                                              |
 | [PostgreSQL实战](https://book.douban.com/subject/30288713/)  |                  |                                                              |
@@ -290,7 +289,6 @@ draft: false
 | [Concurrency In Go](https://book.douban.com/subject/26994591/) |                  |                                                              |
 | [Go语言编程之旅](https://book.douban.com/subject/35130972/)  |  陈剑煜/徐新华   |                                                              |
 |                       Go语言四十二章经                       |                  | https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md  |
-| [Go语言高并发与微服务实战](https://book.douban.com/subject/35055766/) |                  |                                                              |
 |   [Go专家编程](https://book.douban.com/subject/35144587/)    |                  |                                                              |
 | [Go语言设计与实现](https://book.douban.com/subject/35635836/) |                  |                 https://draveness.me/golang/                 |
 |                          Go语言101                           |                  |            https://gfw.go101.org/article/101.html            |
